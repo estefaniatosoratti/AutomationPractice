@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import pages.PageIndex;
 import pages.PageWomen;
 
-public class VerifyFirstResult {
+public class TestFirstResult {
 	private WebDriver driver;
 	private PageIndex pIndex;
 	private PageWomen pWomen;
